@@ -1,6 +1,4 @@
-<div id="readme" class="clearfix announce instapaper_body md">
-    <span class="name"><span class="octicon octicon-book"></span> README.md</span><article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
-<a name="bbqcoin-integrationstaging-tree" class="anchor" href="#bbqcoin-integrationstaging-tree"><span class="octicon octicon-link"></span></a>BBQCoin integration/staging tree</h1>
+<h1><a name="bbqcoin-integrationstaging-tree" class="anchor" href="#bbqcoin-integrationstaging-tree"><span class="octicon octicon-link"></span></a>BBQCoin integration/staging tree</h1>
 
 <p><a href="http://bbqcoinfoundation.org">http://bbqcoinfoundation.org</a></p>
 
