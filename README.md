@@ -1,38 +1,33 @@
+<div id="readme" class="clearfix announce instapaper_body md">
+    <span class="name"><span class="octicon octicon-book"></span> README.md</span><article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
+<a name="bbqcoin-integrationstaging-tree" class="anchor" href="#bbqcoin-integrationstaging-tree"><span class="octicon octicon-link"></span></a>BBQCoin integration/staging tree</h1>
 
-Litecoin integration/staging tree
+<p><a href="http://bbqcoinfoundation.org">http://bbqcoinfoundation.org</a></p>
 
-Development process
-===================
+<p>Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2011-2013 Litecoin Developers</p>
+<h2>What is BBQCoin?</h2>
+BBQCoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. BBQCoin provides faster transaction confirmations (2.5 minutes on average) and uses memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The BBQCoin network is scheduled to produce 88 million currency units.
+<ul>
+<li>2.5 minute block targets
+<li>subsidy halves in 840k blocks (~4 years)
+<li>88 million total coins
+<li>42 coins per block
+<li>2016 blocks to retarget difficulty
+</ul>
+For more information, as well as an immediately useable, binary version of the Litecoin client sofware, see http://bbqcoinfoundation.org/.
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+<h2>
+<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
 
-If it is a simple/trivial/non-controversial change, then one of the
-bitcoin development team members simply pulls it.
+<p>BBQCoin is released under the terms of the MIT license. See <code>COPYING</code> for more
+information or see <a href="http://opensource.org/licenses/MIT">http://opensource.org/licenses/MIT</a>.</p>
 
-If it is a more complicated or potentially controversial
-change, then the patch submitter will be asked to start a
-discussion (if they haven't already) on the mailing list:
-http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development
+<h2>
+<a name="development-process" class="anchor" href="#development-process"><span class="octicon octicon-link"></span></a>Development process</h2>
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+<p>Developers work in their own trees, then submit pull requests when they think
+their feature or bug fix is ready.</p>
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-official, stable release versions of Litecoin.
-
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'. 
+<p>If it is a simple/trivial/non-controversial change, then one of the BBQCoin
+development team members simply pulls it.</p>
