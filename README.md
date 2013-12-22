@@ -5,13 +5,15 @@
 <p>Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers</p>
 <h2>What is BBQCoin?</h2>
-BBQCoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. BBQCoin provides faster transaction confirmations (2.5 minutes on average) and uses memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The BBQCoin network is scheduled to produce 88 million currency units.
+BBQCoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. BBQCoin provides faster transaction confirmations (2.5 minutes on average) and uses memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The BBQCoin network is scheduled to produce 201.6 million currency units.
 <ul>
-<li>2.5 minute block targets
-<li>subsidy halves in 840k blocks (~4 years)
-<li>88 million total coins
-<li>42 coins per block
-<li>2016 blocks to retarget difficulty
+<li>Each block generates 42 coins
+<li>Difficulty adjustment 60 blocks
+<li>Block generated every 1 minute
+<li>Max coins to be created is 201.6 million
+<li>Block reward halves every 24 million blocks or around every 45 years
+<li>Uses the Scrypt hashing algorithm
+<li>RPCPORT=19323
 </ul>
 For more information, as well as an immediately useable, binary version of the Litecoin client sofware, see http://bbqcoinfoundation.org/.
 
