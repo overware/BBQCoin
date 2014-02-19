@@ -15,7 +15,7 @@ BBQCoin is a peer-to-peer Internet currency that enables instant payments to any
 <li>Uses the Scrypt hashing algorithm
 <li>RPCPORT=19323
 </ul>
-For more information, as well as an immediately useable, binary version of the Litecoin client sofware, see http://bbqcoinfoundation.org/.
+For more information, as well as an immediately useable, binary version of the BBQCoin client sofware, see http://bbqcoinfoundation.org/.
 
 <h2>
 <a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
