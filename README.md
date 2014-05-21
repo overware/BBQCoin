@@ -14,6 +14,8 @@ BBQCoin is a peer-to-peer Internet currency that enables instant payments to any
 <li>Block reward halves every 24 million blocks or around every 45 years
 <li>Uses the Scrypt hashing algorithm
 <li>RPCPORT=19323
+
+For more information, as well as an immediately useable, binary version of the BBQCoin client sofware, see http://bbqcoinfoundation.org/.
 </ul>
 
 <p>Sample bbqcoin.conf</p>
